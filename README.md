@@ -2,7 +2,7 @@ robot_race
 ==========
 
 A race of 4 pioneer robots in Stage 3.2.2. 
-These simulations employ the _wander ontroller_ (https://github.com/Arkapravo/Stage-3.2.2/blob/master/examples/ctrl/wander.cc). A good demonstration for Stage and Player/Stage newbies.
+These simulations employ the _wander controller_ (https://github.com/Arkapravo/Stage-3.2.2/blob/master/examples/ctrl/wander.cc). An simple demonstration for Stage and Player/Stage newbies.
 
 Running the simulation
 ----------------------
